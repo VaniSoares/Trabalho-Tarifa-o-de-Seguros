@@ -1,0 +1,121 @@
+Categoria;Região;Grupo;Ano Modelo;Sexo Condutor;Faixa Etária;IS Média (R$);Expostos;Prêmio Médio (R$);Freq. Incêncio e Roubo;Indeniz. Incêncio e Roubo (R$);Freq. Colisão;Indeniz. Colisão (R$);Freq. Outras;Indeniz. Outras (R$)
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;41134;129;1534;0;0;9;64968;10;11326
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;35446;1192;1132;4;122417;85;631637;122;82901
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;35315;1377;1055;3;122616;96;666308;136;178203
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;33865;1123;1021;8;251188;83;581202;127;130875
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;38078;1122;1025;4;109650;77;558990;168;153087
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41305;145;1640;0;0;21;229719;16;7482
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;36429;995;1301;4;113698;91;564773;155;126693
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;35384;935;1116;3;110344;73;613049;108;100826
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;36873;805;1078;2;74330;61;629187;66;63143
+Passeio nacional;ES - Espírito Santo;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;39463;1400;1096;4;135977;101;661786;172;185620
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;41833;370;1505;2;78054;27;258557;44;11444
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;40630;3189;1166;9;325713;235;1597967;519;358274
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;41379;4029;1080;18;491501;239;1664340;546;212107
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42367;3316;1084;6;185007;235;1389413;436;196178
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43352;3309;1042;7;307338;245;1330490;425;184307
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41283;371;1589;8;140010;35;362121;68;23408
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40727;2313;1276;7;210897;215;1596872;456;398364
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40893;2725;1127;12;438074;249;1829558;405;379396
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;42211;2491;1117;9;322906;239;1648604;300;204456
+Passeio nacional;MG - Met.BH-Centro Oeste-Zona Mata-C. Vertentes;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42986;4362;1065;5;96021;352;2715997;491;190308
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;42677;132;1339;1;39765;12;121261;6;3418
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;39959;1064;995;4;148778;70;562339;146;123495
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40974;1278;931;2;70498;65;450071;113;94285
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;41766;1061;967;1;36405;64;357698;104;68047
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43165;1157;936;0;0;80;505093;137;43607
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41421;122;1491;1;34670;8;21732;19;11857
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;39617;799;1082;2;48001;63;673839;206;237063
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40560;866;980;0;0;63;491996;120;135350
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;40907;878;970;3;87698;50;509599;82;102839
+Passeio nacional;MG - Sul;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42399;1691;929;0;0;129;786365;181;144577
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;41610;264;1438;0;0;18;106176;44;15363
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;40525;1614;1101;4;70934;100;653512;212;219905
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40833;1564;1017;1;34798;116;594770;203;91466
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42067;1369;1046;4;117797;88;462487;183;116067
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43294;1581;1005;2;74285;111;671518;212;88437
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;42106;232;1557;1;32666;37;230348;46;16924
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40622;941;1190;4;164597;103;765993;145;105080
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40494;908;1060;0;0;92;447735;110;122654
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41442;876;1077;0;0;91;560226;107;124072
+Passeio nacional;MG - Triângulo mineiro;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42385;1472;1011;1;33870;139;735274;136;104456
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;43003;33;1407;0;0;2;12377;24;4631
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;41546;369;1172;0;0;25;155390;61;53511
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;42186;491;1023;0;0;36;183957;40;19141
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42979;449;1056;1;691;41;172739;42;17798
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;44633;486;1044;0;0;46;247230;65;61585
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;38935;33;1493;1;34687;2;3584;8;35689
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40073;284;1170;0;0;24;168111;43;9311
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40494;363;1140;1;34476;28;285089;53;13161
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;42420;325;1116;1;54191;35;409757;23;7664
+Passeio nacional;MG - Vale do Aço-Norte-Vale Jequitinhonha;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;43653;772;1023;1;34206;73;673485;70;80797
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;40716;95;1551;0;0;6;27975;16;40689
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;40521;858;1227;4;122387;50;431258;196;64816
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40968;1179;1210;4;139875;60;434025;287;138052
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42360;1079;1206;1;7624;63;452860;177;112783
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43501;1367;1170;2;90340;61;469485;225;137217
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41664;118;1747;1;38260;8;39895;43;19516
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40049;836;1351;5;189233;51;694068;160;118176
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;39917;1066;1239;1;30640;59;547291;188;160555
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41744;950;1227;2;59579;43;378478;166;113069
+Passeio nacional;RJ - Interior;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42781;2188;1176;8;389279;119;853142;327;201603
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;42516;250;2091;0;0;19;170643;60;49702
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;41297;1968;1931;31;880872;137;1051038;541;429199
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;41535;2945;1791;43;1533156;168;1023132;727;546139
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;41901;2622;1738;48;1590791;152;1147233;634;413754
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;42739;3299;1563;31;1234844;162;1330311;894;538003
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;40768;317;2232;3;117975;27;394096;92;20115
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40188;1906;1968;38;1233724;165;1383899;518;506576
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40265;2456;1873;46;1480481;132;808369;556;346276
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41210;2378;1802;36;1204187;134;1169363;464;347271
+Passeio nacional;RJ - Met. do Rio de Janeiro;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42731;4801;1681;66;2466358;244;2425334;893;822327
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;41494;431;1483;1;37314;41;222862;73;58544
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;39926;2550;1162;16;521560;184;1159770;625;425581
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40450;2882;1038;19;567005;168;1090041;679;279685
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;41383;2395;1038;13;453731;136;892669;507;216015
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;42704;2291;983;4;146478;163;1110309;473;265867
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;40648;434;1611;3;109594;42;356892;61;50827
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40006;2048;1244;16;464101;180;1271630;509;368106
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40203;1999;1108;12;422166;130;719262;442;350587
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;40889;1901;1068;9;314721;126;691026;329;269276
+Passeio nacional;SP - Grande Campinas;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;41837;2954;987;7;178436;193;1108562;511;186191
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;33914;49;1441;0;0;1;6859;11;2768
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;38518;458;1310;5;206185;39;223423;166;32389
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;39442;715;1243;7;206484;49;344362;231;190777
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;40915;591;1227;3;115243;34;224865;190;82252
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;41387;676;1183;0;0;47;318265;307;77946
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;30321;74;1703;0;0;7;75204;21;41554
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;36905;456;1407;4;114775;23;132072;175;103388
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;37723;597;1238;3;102981;34;300149;198;263752
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;39178;607;1208;0;0;37;353483;155;108283
+Passeio nacional;SP - Litoral Norte e Baixada Santista;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;40993;1159;1123;4;141144;78;626187;356;171933
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;43045;1218;1750;11;355588;101;962821;333;237518
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;40840;9010;1432;147;5103487;535;3427521;4001;1490061
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40928;11595;1345;180;6105852;592;3843007;5161;2080257
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42132;9879;1335;143;4863672;502;2946405;4362;1536661
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43228;10595;1257;111;3802787;620;3509638;5477;1682370
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41739;1597;1913;16;491220;109;991593;415;334344
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40188;8724;1509;142;4533621;542;4184752;3663;2438077
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40326;9690;1382;165;5892591;573;4416281;3671;2147692
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41443;8805;1343;111;3805990;492;3535487;2769;1335838
+Passeio nacional;SP - Met. de São Paulo;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42490;14160;1252;160;5370757;777;5489044;5025;2022532
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;41484;1564;1195;8;147307;138;1052086;229;192086
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;40483;9943;955;13;441071;698;4059988;1622;835591
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;41032;11189;904;22;721504;786;4514939;1744;681257
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;42233;10154;922;8;281124;728;4021696;1388;518336
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43552;11875;895;17;489689;925;5152287;1657;586804
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;41276;1506;1255;2;64324;146;1290524;194;160219
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;40494;6802;1024;25;764955;567;3389568;1257;1030366
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40787;6812;937;20;776161;586;3789444;1017;770180
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41642;7401;936;18;670415;582;3936732;1010;509604
+Passeio nacional;SP - Ribeirão Preto e Demais Mun. de Campinas;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42915;13844;895;14;426975;1062;6530743;1536;673996
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Feminino;Entre 18 e 25 anos;39755;249;1403;2;71965;21;111213;60;16571
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Feminino;Entre 26 e 35 anos;39595;2008;1187;21;682254;105;665806;600;310392
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Feminino;Entre 36 e 45 anos;40429;2794;1100;29;1010941;178;1232644;793;296072
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Feminino;Entre 46 e 55 anos;41565;2496;1101;25;866116;139;855652;761;313994
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Feminino;Maior que 55 anos;43202;2414;1046;21;665393;148;1074130;824;164878
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Masculino;Entre 18 e 25 anos;40314;287;1659;1;37304;18;84552;51;61251
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Masculino;Entre 26 e 35 anos;39671;1727;1308;26;904584;124;1144308;546;280699
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Masculino;Entre 36 e 45 anos;40005;2045;1160;28;916093;116;974788;532;239045
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Masculino;Entre 46 e 55 anos;41162;1980;1142;22;777207;140;1026688;422;190251
+Passeio nacional;SP - Vale do Paraíba e Ribeira;GM CHEVROLET ONIX;Todos;Masculino;Maior que 55 anos;42181;3775;1052;22;787537;196;1486645;935;371455
